@@ -1,4 +1,4 @@
-# Reactive Relational Database Connectivity PostgreSQL Implementation
+# Reactive Relational Database Connectivity - YugabyteDB YSQL Implementation
 
 This project contains the [PostgreSQL][p] implementation of the [R2DBC SPI][r].  This implementation is not intended to be used directly, but rather to be used as the backing implementation for a humane client library to delegate to.
 
